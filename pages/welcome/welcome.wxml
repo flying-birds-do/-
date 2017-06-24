@@ -1,0 +1,6 @@
+<view class="cantainer" >
+<image src="/images/start.png" class="covers"></image>
+</view>
+<view class="clickBtn" bindtap="onTap">
+<text>立即开启</text>
+</view>
